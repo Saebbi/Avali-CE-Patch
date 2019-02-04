@@ -3,6 +3,8 @@
 	<name>Avali CE Patch</name>
 	<author>Saebbi</author>
 	<url></url>
-	<targetVersion>0.18.1722</targetVersion>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
 	<description>Patches the Avali mod to work with Combat Extended.</description>
 </ModMetaData>
