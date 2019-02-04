@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName="Avali_Apparel_Exoskeleton"]/equippedStatOffsets</xpath>
+		<value>
+			<CarryWeight>40</CarryWeight>
+			<CarryBulk>10</CarryBulk>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName="Avali_Apparel_GuardianArmor"]/equippedStatOffsets</xpath>
+		<value>
+			<CarryWeight>20</CarryWeight>
+			<CarryBulk>10</CarryBulk>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName="Avali_Apparel_CombatArmor"]/equippedStatOffsets</xpath>
+		<value>
+			<CarryWeight>20</CarryWeight>
+			<CarryBulk>10</CarryBulk>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName="Avali_Apparel_CombatArmorElite"]/equippedStatOffsets</xpath>
+		<value>
+			<CarryWeight>20</CarryWeight>
+			<CarryBulk>10</CarryBulk>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName="Avali_Apparel_HellcatArmor"]/equippedStatOffsets</xpath>
+		<value>
+			<CarryWeight>20</CarryWeight>
+			<CarryBulk>10</CarryBulk>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+		<xpath>*/ThingDef[defName="Avali_Apparel_HellcatArmorElite"]/equippedStatOffsets</xpath>
+		<value>
+			<CarryWeight>20</CarryWeight>
+			<CarryBulk>10</CarryBulk>
+		</value>
+	</Operation>
+	
+</Patch>
+
